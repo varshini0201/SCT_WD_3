@@ -6,7 +6,7 @@ An interactive web-based quiz game designed to test your programming knowledge. 
 
 ## 🚀 Live Demo
 
-https://svb10877-5500.inc1.devtunnels.ms/
+[Live Demo](https://varshini0201.github.io/SCT_WD_3/)
 
 ---
 
@@ -25,7 +25,7 @@ https://svb10877-5500.inc1.devtunnels.ms/
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ---
 
